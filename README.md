@@ -1,4 +1,4 @@
-# feinstaub-map
+# feinstaub-map - FORK ( Miska Knapek: unless indicated, the code is the original authors' : ) 
 
 ## [Live Version](http://opendata-stuttgart.github.io/feinstaub-map/)
 
